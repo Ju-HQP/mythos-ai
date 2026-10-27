@@ -1,0 +1,1 @@
+export const eraseRootId = {_id : false};
